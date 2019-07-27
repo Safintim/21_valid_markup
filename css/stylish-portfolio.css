@@ -92,6 +92,8 @@ hr.small {
   display: block;
   text-decoration: none;
   color: #999;
+  text-indent: 0px;
+  line-height: 0px;
 }
 
 .sidebar-nav li a:hover {
