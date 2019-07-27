@@ -4,6 +4,8 @@
 
 Просто статический сайт.
 
+Посмотреть можно [тут](https://safintim.github.io/21_valid_markup/index.html)
+
 ## Как запустить
 
 ```sh
